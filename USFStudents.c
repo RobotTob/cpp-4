@@ -1,3 +1,14 @@
+//The obj is to keep track of student info.
+//Make program that lets u enter a
+/*student's name, age, U number, grade point average, if they live on
+campus (yes/no), and if they have paid for the current semester (yes/no).*/
+//create a structure that will contain this information.
+//Once you have created it, enter data into a structure variable for one student.
+/*Then copy that student's data to another structure
+variable and change the name, switch the answers
+for where they live and if they have paid for the
+current semester.*/
+//Print out the current data for both students.
 #include <stdio.h>
 #include <string.h>
 
